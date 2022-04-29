@@ -1,0 +1,5 @@
+background - e4e1de
+white - f1f2f3
+brown - 262421
+dark brown - 171717
+black - 131212
